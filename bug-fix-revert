@@ -1,0 +1,7 @@
+git checkout main
+Already on 'main'
+
+git merge bug-fix-typo
+Updating ...
+Fast-forward
+ README.md | ...
