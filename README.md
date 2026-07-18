@@ -6,3 +6,5 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+
+This line calculates simple interest using principal, rate, and time.
